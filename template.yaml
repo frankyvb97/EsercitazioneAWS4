@@ -24,4 +24,4 @@ Resources:
         RepeatRule:
           Type: Schedule
           Properties:
-            Schedule: 'cron(0/1 * * * ? *)'
+            Schedule: 'cron(0/5 * * * ? *)'
